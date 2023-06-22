@@ -1,0 +1,1 @@
+Template for a Svelte/Tailwind/Rollup/DaisyUI project as that is the stack I am currently using for my projects.
