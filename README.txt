@@ -1,1 +1,1 @@
-Template for a Svelte/Tailwind/Rollup/DaisyUI project as that is the stack I am currently using for my projects.
+Svelte Component for drawing a single path SVG as if the user is drawing it and then undoes it. Intended to be used as cool "hand drawn" loading icons
